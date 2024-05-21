@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ReadRangeConnections_1_1_Connection0",
+      "DisplayName": "ReadRangeConnections`1_1_Connection",
+      "Category": null,
+      "Tooltip": "Read Range: UiPath Template",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ReadRangeConnections_1_1_Connection0_Property0_Metadata",
+      "DisplayName": "Spreadsheet",
+      "Category": null,
+      "Tooltip": "Read Range: UiPath Template",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    }
+  ]
+}
